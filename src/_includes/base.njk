@@ -221,7 +221,9 @@ try {
 				var value = select.value;
 				if (!value) return;
 				event.preventDefault();
-				location.href = "/group/" + encodeURIComponent(value) + "/";
+				// Resolve against the form's action, which HtmlBasePlugin has already
+				// prefixed, so the link also works under a subfolder (GitHub Pages).
+				location.href = new URL("group/" + encodeURIComponent(value) + "/", form.action).href;
 			}
 			form.addEventListener("submit", go);
 			select.addEventListener("change", go);
