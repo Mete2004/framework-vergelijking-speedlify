@@ -1,0 +1,3 @@
+{"version":1,"url":"https://snappthis-dev.netlify.app/groups/soa-paolo-fietsers","updated":"2026-11-23T20:01:07.407Z","points":[
+{"t":1795464030258,"lh":"13.6.0","performance":100,"accessibility":88,"best-practices":96,"seo":82,"lcp":796,"cls":0,"tbt":0,"fcp":796,"si":796,"ttfb":620,"total":9450,"requests":5,"bytes":0,"mainThreadMs":0,"unusedJsBytes":0,"unusedCssBytes":0,"mainThreadTotal":120.5,"longTasks":0,"elements":38,"failingCount":3,"failingNodes":4,"bench":4708,"runs":3,"reqRuns":3,"ms":37129,"spread":0}
+]}

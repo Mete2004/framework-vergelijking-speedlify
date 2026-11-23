@@ -1,0 +1,312 @@
+{
+  "url": "https://snappthis-dev.netlify.app/groups/soa-paolo-fietsers",
+  "name": "SvelteKit – groepsdetail",
+  "group": "frameworks",
+  "groupName": "Framework-vergelijking",
+  "timestamp": 1795464030258,
+  "date": "2026-11-23T20:00:30.258Z",
+  "runId": "2026-11-23T19-58-31-229Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 37129,
+  "error": null,
+  "variance": {
+    "min": 100,
+    "max": 100,
+    "spread": 0,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://snappthis-dev.netlify.app/groups/soa-paolo-fietsers",
+    "finalUrl": "https://snappthis-dev.netlify.app/groups/soa-paolo-fietsers",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 100,
+      "accessibility": 88,
+      "best-practices": 96,
+      "seo": 82,
+      "agentic-browsing": 50
+    },
+    "timings": {
+      "fcp": 796,
+      "lcp": 796,
+      "si": 796,
+      "tbt": 0,
+      "tti": 796,
+      "cls": 0,
+      "ttfb": 620,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 260,
+      "networkRtt": 0,
+      "networkServerLatency": 20.3
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 260.3,
+      "elementRenderDelay": 39.3
+    },
+    "weight": {
+      "total": 9450,
+      "requests": 5,
+      "mainDocument": 4025,
+      "byType": {
+        "total": {
+          "bytes": 9450,
+          "requests": 5
+        },
+        "stylesheet": {
+          "bytes": 5265,
+          "requests": 3
+        },
+        "document": {
+          "bytes": 4025,
+          "requests": 1
+        },
+        "font": {
+          "bytes": 160,
+          "requests": 1
+        },
+        "image": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "script": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "other": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 0,
+          "requests": 0
+        }
+      },
+      "scripts": 0,
+      "stylesheets": 3,
+      "fonts": 1
+    },
+    "thirdParty": {
+      "count": 0,
+      "bytes": 0,
+      "mainThreadMs": 0,
+      "top": []
+    },
+    "mainThread": {
+      "total": 120.5,
+      "byGroup": {
+        "other": 52.7,
+        "styleLayout": 49.2,
+        "scriptEvaluation": 10,
+        "parseHTML": 4,
+        "paintCompositeRender": 3,
+        "scriptParseCompile": 1.6
+      },
+      "bootupMs": 7,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 38,
+      "depth": 9,
+      "maxChildren": 3
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 0,
+      "renderBlockingCount": 3,
+      "poorlyCachedBytes": 0,
+      "poorlyCachedCount": 0
+    },
+    "accessibility": {
+      "failingCount": 3,
+      "applicableCount": 19,
+      "failingNodes": 4,
+      "failing": [
+        {
+          "id": "color-contrast",
+          "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+          "weight": 7,
+          "nodes": 2
+        },
+        {
+          "id": "document-title",
+          "title": "Document doesn't have a `<title>` element",
+          "weight": 7,
+          "nodes": 1
+        },
+        {
+          "id": "landmark-one-main",
+          "title": "Document does not have a main landmark.",
+          "weight": 3,
+          "nodes": 1
+        }
+      ]
+    },
+    "bestPractices": {
+      "failingCount": 1,
+      "applicableCount": 18,
+      "failing": [
+        {
+          "id": "errors-in-console",
+          "title": "Browser errors were logged to the console",
+          "weight": 1,
+          "nodes": 1
+        }
+      ]
+    },
+    "seo": {
+      "failingCount": 2,
+      "applicableCount": 8,
+      "failing": [
+        {
+          "id": "document-title",
+          "title": "Document doesn't have a `<title>` element",
+          "weight": 1,
+          "nodes": 1
+        },
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "weight": 1,
+          "nodes": null
+        }
+      ]
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": null,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 0,
+      "consoleErrors": 1,
+      "baselineLimitedFeatures": 12
+    },
+    "environment": {
+      "lighthouseVersion": "13.6.0",
+      "benchmarkIndex": 4708,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-23T20:00:44.048Z",
+      "runtimeMs": 6267.1
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 1125.6,
+    "elementRenderDelay": 69.5
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": {
+      "id": "sveltekit",
+      "name": "SvelteKit",
+      "icon": "Svelte",
+      "version": null,
+      "source": "dom",
+      "raw": null
+    },
+    "probe": {
+      "metas": [],
+      "marks": [
+        "sveltekit"
+      ],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "netlify",
+      "name": "Netlify",
+      "icon": "Netlify",
+      "source": "x-nf-request-id"
+    },
+    "headers": {
+      "server": "Netlify",
+      "x-nf-request-id": "01M84ZYWK9750DKFNNP21NC9WA"
+    },
+    "violations": null,
+    "passes": null,
+    "incomplete": null,
+    "violationRules": null,
+    "version": null,
+    "top": [],
+    "error": "Cannot find module 'axe-core'\nRequire stack:\n- /Users/sariguney/Documents/FDND%20lokaal/framework-vergelijking-speedlify/node_modules/@axe-core/puppeteer/dist/index.mjs"
+  },
+  "render": {
+    "samples": [
+      {
+        "hash": "4aea8c3d813f",
+        "nonce": null,
+        "stamp": null,
+        "marks": [],
+        "headers": {
+          "age": "0",
+          "cache-status": "\"Netlify Durable\"; fwd=bypass\n\"Netlify Edge\"; fwd=miss; fwd-status=200",
+          "etag": "W/\"pzyfvp\""
+        }
+      },
+      {
+        "hash": "4aea8c3d813f",
+        "nonce": null,
+        "stamp": null,
+        "marks": [],
+        "headers": {
+          "age": "0",
+          "cache-status": "\"Netlify Durable\"; fwd=bypass\n\"Netlify Edge\"; fwd=miss; fwd-status=200",
+          "etag": "W/\"pzyfvp\""
+        }
+      },
+      {
+        "hash": "4aea8c3d813f",
+        "nonce": null,
+        "stamp": null,
+        "marks": [],
+        "headers": {
+          "age": "0",
+          "cache-status": "\"Netlify Durable\"; fwd=bypass\n\"Netlify Edge\"; fwd=miss; fwd-status=200",
+          "etag": "W/\"pzyfvp\""
+        }
+      },
+      {
+        "hash": "4aea8c3d813f",
+        "nonce": null,
+        "stamp": null,
+        "marks": [],
+        "headers": {
+          "age": "0",
+          "cache-status": "\"Netlify Durable\"; fwd=bypass\n\"Netlify Edge\"; fwd=miss; fwd-status=200",
+          "etag": "W/\"pzyfvp\""
+        }
+      },
+      {
+        "hash": "4aea8c3d813f",
+        "nonce": null,
+        "stamp": null,
+        "marks": [],
+        "headers": {
+          "cache-status": "\"Netlify Edge\"; fwd=miss; fwd-status=200",
+          "etag": "W/\"pzyfvp\""
+        }
+      }
+    ]
+  },
+  "consecutiveFailures": 0
+}

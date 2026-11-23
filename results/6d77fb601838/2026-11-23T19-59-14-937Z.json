@@ -1,0 +1,274 @@
+{
+  "url": "https://framework-11ty.netlify.app/groups/soa-paolo-fietsers",
+  "name": "11ty – groepsdetail",
+  "group": "frameworks",
+  "groupName": "Framework-vergelijking",
+  "timestamp": 1795463954937,
+  "date": "2026-11-23T19:59:14.937Z",
+  "runId": "2026-11-23T19-58-31-229Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 36932,
+  "error": null,
+  "variance": {
+    "min": 100,
+    "max": 100,
+    "spread": 0,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://framework-11ty.netlify.app/groups/soa-paolo-fietsers",
+    "finalUrl": "https://framework-11ty.netlify.app/groups/soa-paolo-fietsers/",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 100,
+      "accessibility": 93,
+      "best-practices": 100,
+      "seo": 90,
+      "agentic-browsing": 100
+    },
+    "timings": {
+      "fcp": 788,
+      "lcp": 788,
+      "si": 788,
+      "tbt": 0,
+      "tti": 788,
+      "cls": 0.007,
+      "ttfb": 619,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 19,
+      "networkRtt": 0,
+      "networkServerLatency": 19.3
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 168.7,
+      "elementRenderDelay": 55.1
+    },
+    "weight": {
+      "total": 72840,
+      "requests": 7,
+      "mainDocument": 3252,
+      "byType": {
+        "total": {
+          "bytes": 57693,
+          "requests": 6
+        },
+        "font": {
+          "bytes": 39987,
+          "requests": 1
+        },
+        "script": {
+          "bytes": 11209,
+          "requests": 1
+        },
+        "document": {
+          "bytes": 3252,
+          "requests": 1
+        },
+        "stylesheet": {
+          "bytes": 3180,
+          "requests": 2
+        },
+        "other": {
+          "bytes": 65,
+          "requests": 1
+        },
+        "image": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 0,
+          "requests": 0
+        }
+      },
+      "scripts": 1,
+      "stylesheets": 2,
+      "fonts": 1
+    },
+    "thirdParty": {
+      "count": 0,
+      "bytes": 0,
+      "mainThreadMs": 0,
+      "top": []
+    },
+    "mainThread": {
+      "total": 135.6,
+      "byGroup": {
+        "other": 52.9,
+        "styleLayout": 49.2,
+        "scriptEvaluation": 18,
+        "paintCompositeRender": 5.3,
+        "scriptParseCompile": 5.2,
+        "parseHTML": 5
+      },
+      "bootupMs": 6.7,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 36,
+      "depth": 8,
+      "maxChildren": 5
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 0,
+      "renderBlockingCount": 2,
+      "poorlyCachedBytes": 11115.591666666667,
+      "poorlyCachedCount": 1
+    },
+    "accessibility": {
+      "failingCount": 2,
+      "applicableCount": 19,
+      "failingNodes": 3,
+      "failing": [
+        {
+          "id": "color-contrast",
+          "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+          "weight": 7,
+          "nodes": 2
+        },
+        {
+          "id": "landmark-one-main",
+          "title": "Document does not have a main landmark.",
+          "weight": 3,
+          "nodes": 1
+        }
+      ]
+    },
+    "bestPractices": {
+      "failingCount": 0,
+      "applicableCount": 18,
+      "failing": []
+    },
+    "seo": {
+      "failingCount": 1,
+      "applicableCount": 7,
+      "failing": [
+        {
+          "id": "meta-description",
+          "title": "Document does not have a meta description",
+          "weight": 1,
+          "nodes": null
+        }
+      ]
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": null,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 769.3,
+      "consoleErrors": 0,
+      "baselineLimitedFeatures": 13
+    },
+    "environment": {
+      "lighthouseVersion": "13.6.0",
+      "benchmarkIndex": 4692,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-23T19:59:22.231Z",
+      "runtimeMs": 5962.7
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 1695.8,
+    "elementRenderDelay": 55.4
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": null,
+    "probe": {
+      "metas": [],
+      "marks": [],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "netlify",
+      "name": "Netlify",
+      "icon": "Netlify",
+      "source": "x-nf-request-id"
+    },
+    "headers": {
+      "server": "Netlify",
+      "x-nf-request-id": "01M84ZW3E85JQVYVNJ223XAPNR"
+    },
+    "violations": null,
+    "passes": null,
+    "incomplete": null,
+    "violationRules": null,
+    "version": null,
+    "top": [],
+    "error": "Cannot find module 'axe-core'\nRequire stack:\n- /Users/sariguney/Documents/FDND%20lokaal/framework-vergelijking-speedlify/node_modules/@axe-core/puppeteer/dist/index.mjs"
+  },
+  "render": {
+    "samples": [
+      {
+        "hash": "722418210382",
+        "nonce": null,
+        "stamp": null,
+        "marks": [],
+        "headers": {
+          "age": "0",
+          "cache-status": "\"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+          "etag": "W/\"0487139bd12baa52df341d0b3010616a-ssl\""
+        }
+      },
+      {
+        "hash": "722418210382",
+        "nonce": null,
+        "stamp": null,
+        "marks": [],
+        "headers": {
+          "age": "6",
+          "cache-status": "\"Netlify Edge\"; hit; ttl=31535994",
+          "etag": "W/\"0487139bd12baa52df341d0b3010616a-ssl\""
+        }
+      },
+      {
+        "hash": "722418210382",
+        "nonce": null,
+        "stamp": null,
+        "marks": [],
+        "headers": {
+          "age": "12",
+          "cache-status": "\"Netlify Edge\"; hit; ttl=31535988",
+          "etag": "W/\"0487139bd12baa52df341d0b3010616a-ssl\""
+        }
+      },
+      {
+        "hash": "722418210382",
+        "nonce": null,
+        "stamp": null,
+        "marks": [],
+        "headers": {
+          "age": "18",
+          "cache-status": "\"Netlify Edge\"; hit; ttl=31535982",
+          "etag": "W/\"0487139bd12baa52df341d0b3010616a-ssl\""
+        }
+      }
+    ]
+  },
+  "consecutiveFailures": 0
+}

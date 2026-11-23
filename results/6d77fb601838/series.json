@@ -1,0 +1,3 @@
+{"version":1,"url":"https://framework-11ty.netlify.app/groups/soa-paolo-fietsers","updated":"2026-11-23T19:59:51.894Z","points":[
+{"t":1795463954937,"lh":"13.6.0","performance":100,"accessibility":93,"best-practices":100,"seo":90,"lcp":788,"cls":0.007,"tbt":0,"fcp":788,"si":788,"ttfb":619,"total":72840,"requests":7,"bytes":0,"mainThreadMs":0,"unusedJsBytes":0,"unusedCssBytes":0,"mainThreadTotal":135.6,"longTasks":0,"elements":36,"failingCount":2,"failingNodes":3,"bench":4692,"runs":3,"reqRuns":3,"ms":36932,"spread":0}
+]}
