@@ -1,0 +1,3 @@
+{"version":1,"url":"https://deploy-preview-299--snappthis-dev.netlify.app/groups","updated":"2026-11-24T17:43:56.927Z","points":[
+{"t":1795542191004,"lh":"13.6.0","performance":100,"accessibility":88,"best-practices":92,"seo":45,"lcp":775,"cls":0,"tbt":0,"fcp":775,"si":975,"ttfb":607,"total":1752617,"requests":51,"bytes":0,"mainThreadMs":0,"unusedJsBytes":0,"unusedCssBytes":0,"mainThreadTotal":341.8,"longTasks":0,"elements":173,"failingCount":3,"failingNodes":9,"axeViolations":10,"axePasses":379,"bench":3010,"runs":3,"reqRuns":3,"ms":45859,"spread":1}
+]}
