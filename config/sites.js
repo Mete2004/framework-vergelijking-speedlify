@@ -56,8 +56,8 @@ export default {
 			sites: [
 				{ name: "11ty – groups", url: "https://framework-11ty.netlify.app/groups/" },
 				{ name: "11ty – groepsdetail", url: "https://framework-11ty.netlify.app/groups/soa-paolo-fietsers/" },
-				{ name: "SvelteKit – groups", url: "https://snappthis-dev.netlify.app/groups" },
-				{ name: "SvelteKit – groepsdetail", url: "https://snappthis-dev.netlify.app/groups/soa-paolo-fietsers" },
+				{ name: "SvelteKit – groups", url: "https://deploy-preview-299--snappthis-dev.netlify.app/groups" },
+				{ name: "SvelteKit – groepsdetail", url: "https://deploy-preview-299--snappthis-dev.netlify.app/groups/soa-paolo-fietsers" },
 			],
 		},
 	},
