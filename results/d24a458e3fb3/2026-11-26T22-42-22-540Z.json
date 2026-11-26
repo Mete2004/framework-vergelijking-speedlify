@@ -1,0 +1,269 @@
+{
+  "url": "https://framework-astro.netlify.app/groups",
+  "name": "Astro – groups",
+  "group": "frameworks",
+  "groupName": "Framework-vergelijking",
+  "timestamp": 1795732942540,
+  "date": "2026-11-26T22:42:22.540Z",
+  "runId": "2026-11-26T22-42-15-964Z",
+  "formFactor": "mobile",
+  "requestedRuns": 3,
+  "completedRuns": 3,
+  "durationMs": 45279,
+  "error": null,
+  "variance": {
+    "min": 99,
+    "max": 100,
+    "spread": 1,
+    "runs": 3
+  },
+  "lab": {
+    "requestedUrl": "https://framework-astro.netlify.app/groups",
+    "finalUrl": "https://framework-astro.netlify.app/groups",
+    "redirect": null,
+    "statusCode": "ok",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    },
+    "timings": {
+      "fcp": 801,
+      "lcp": 801,
+      "si": 801,
+      "tbt": 0,
+      "tti": 801,
+      "cls": 0.001,
+      "ttfb": 629,
+      "maxPotentialFid": 16,
+      "serverResponseTime": 99,
+      "networkRtt": 0,
+      "networkServerLatency": 29.1
+    },
+    "lcpBreakdown": {
+      "timeToFirstByte": 101.2,
+      "elementRenderDelay": 56.2
+    },
+    "weight": {
+      "total": 69828,
+      "requests": 5,
+      "mainDocument": 6800,
+      "byType": {
+        "total": {
+          "bytes": 54613,
+          "requests": 4
+        },
+        "font": {
+          "bytes": 35359,
+          "requests": 1
+        },
+        "script": {
+          "bytes": 11015,
+          "requests": 1
+        },
+        "document": {
+          "bytes": 6800,
+          "requests": 1
+        },
+        "stylesheet": {
+          "bytes": 1439,
+          "requests": 1
+        },
+        "image": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "media": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "other": {
+          "bytes": 0,
+          "requests": 0
+        },
+        "third-party": {
+          "bytes": 0,
+          "requests": 0
+        }
+      },
+      "scripts": 1,
+      "stylesheets": 1,
+      "fonts": 1
+    },
+    "thirdParty": {
+      "count": 0,
+      "bytes": 0,
+      "mainThreadMs": 0,
+      "top": []
+    },
+    "mainThread": {
+      "total": 223.1,
+      "byGroup": {
+        "other": 118.3,
+        "styleLayout": 43.1,
+        "scriptEvaluation": 31.3,
+        "parseHTML": 12.8,
+        "paintCompositeRender": 10.8,
+        "scriptParseCompile": 6.7
+      },
+      "bootupMs": 36.3,
+      "longTasks": 0,
+      "longestTaskMs": null
+    },
+    "dom": {
+      "elements": 168,
+      "depth": 9,
+      "maxChildren": 7
+    },
+    "waste": {
+      "unusedJsBytes": 0,
+      "unusedCssBytes": 0,
+      "legacyJsBytes": 0,
+      "duplicatedJsBytes": 0,
+      "unminifiedJsBytes": 0,
+      "unminifiedCssBytes": 0,
+      "renderBlockingMs": 0,
+      "renderBlockingCount": 1,
+      "poorlyCachedBytes": 10923.208333333334,
+      "poorlyCachedCount": 1
+    },
+    "accessibility": {
+      "failingCount": 0,
+      "applicableCount": 23,
+      "failingNodes": 0,
+      "failing": []
+    },
+    "bestPractices": {
+      "failingCount": 0,
+      "applicableCount": 18,
+      "failing": []
+    },
+    "seo": {
+      "failingCount": 0,
+      "applicableCount": 7,
+      "failing": []
+    },
+    "hygiene": {
+      "https": 1,
+      "hsts": null,
+      "csp": 1,
+      "clickjacking": 1,
+      "originIsolation": 1,
+      "trustedTypes": 1,
+      "bfCache": 1,
+      "bfCacheFailures": 0,
+      "protocol": "h2",
+      "legacyHttpRequests": 0,
+      "redirectMs": 0,
+      "consoleErrors": 0,
+      "baselineLimitedFeatures": 18
+    },
+    "environment": {
+      "lighthouseVersion": "13.6.0",
+      "benchmarkIndex": 2415.5,
+      "formFactor": "mobile",
+      "throttlingMethod": "simulate",
+      "userAgent": "Mozilla/5.0 (Linux; Android 11; moto g power (2022)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+      "fetchTime": "2026-11-26T22:42:41.332Z",
+      "runtimeMs": 6757.8
+    }
+  },
+  "throttledLcpBreakdown": {
+    "timeToFirstByte": 1127.1,
+    "elementRenderDelay": 89.7
+  },
+  "field": null,
+  "axe": {
+    "navigationTimedOut": false,
+    "generator": {
+      "id": "astro",
+      "name": "Astro",
+      "icon": "Astro",
+      "version": null,
+      "source": "dom",
+      "raw": null
+    },
+    "probe": {
+      "metas": [],
+      "marks": [
+        "astro"
+      ],
+      "markVersions": {}
+    },
+    "interstitial": null,
+    "host": {
+      "id": "netlify",
+      "name": "Netlify",
+      "icon": "Netlify",
+      "source": "x-nf-request-id"
+    },
+    "headers": {
+      "server": "Netlify",
+      "x-nf-request-id": "01M8D0DNGG5EMNYVA1ATY59QRT"
+    },
+    "violations": 0,
+    "passes": 407,
+    "incomplete": 2,
+    "violationRules": 0,
+    "version": "4.14.0",
+    "top": [],
+    "error": null
+  },
+  "render": {
+    "samples": [
+      {
+        "hash": "1b8804610b20",
+        "nonce": null,
+        "stamp": null,
+        "marks": [],
+        "headers": {
+          "age": "0",
+          "cache-status": "\"Netlify Durable\"; fwd=bypass\n\"Netlify Edge\"; fwd=miss; fwd-status=200"
+        }
+      },
+      {
+        "hash": "1b8804610b20",
+        "nonce": null,
+        "stamp": null,
+        "marks": [],
+        "headers": {
+          "age": "0",
+          "cache-status": "\"Netlify Durable\"; fwd=bypass\n\"Netlify Edge\"; fwd=miss; fwd-status=200"
+        }
+      },
+      {
+        "hash": "1b8804610b20",
+        "nonce": null,
+        "stamp": null,
+        "marks": [],
+        "headers": {
+          "age": "0",
+          "cache-status": "\"Netlify Durable\"; fwd=bypass\n\"Netlify Edge\"; fwd=miss; fwd-status=200"
+        }
+      },
+      {
+        "hash": "1b8804610b20",
+        "nonce": null,
+        "stamp": null,
+        "marks": [],
+        "headers": {
+          "age": "0",
+          "cache-status": "\"Netlify Durable\"; fwd=bypass\n\"Netlify Edge\"; fwd=miss; fwd-status=200"
+        }
+      },
+      {
+        "hash": "1b8804610b20",
+        "nonce": null,
+        "stamp": null,
+        "marks": [],
+        "headers": {
+          "age": "0",
+          "cache-status": "\"Netlify Durable\"; fwd=bypass, \"Netlify Edge\"; fwd=miss; fwd-status=200"
+        }
+      }
+    ]
+  },
+  "consecutiveFailures": 0
+}
