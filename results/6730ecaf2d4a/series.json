@@ -1,0 +1,3 @@
+{"version":1,"url":"https://framework-next.netlify.app/groups","updated":"2026-11-26T17:38:10.964Z","points":[
+{"t":1795714365032,"lh":"13.6.0","performance":100,"accessibility":100,"best-practices":96,"seo":100,"lcp":844,"cls":0.006,"tbt":48,"fcp":844,"si":844,"ttfb":674,"total":219235,"requests":37,"bytes":0,"mainThreadMs":0,"unusedJsBytes":27698,"unusedCssBytes":0,"mainThreadTotal":618.2,"longTasks":1,"elements":174,"failingCount":0,"failingNodes":0,"axeViolations":0,"axePasses":418,"bench":3276.5,"runs":3,"reqRuns":3,"ms":325847,"spread":24}
+]}
