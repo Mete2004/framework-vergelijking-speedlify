@@ -60,6 +60,8 @@ export default {
 				{ name: "SvelteKit – groepsdetail", url: "https://snappthis-dev.netlify.app/groups/soa-paolo-fietsers" },
 				{ name: "Next.js – groups", url: "https://framework-next.netlify.app/groups" },
 				{ name: "Next.js – groepsdetail", url: "https://framework-next.netlify.app/groups/soa-paolo-fietsers" },
+				{ name: "Astro – groups", url: "https://framework-astro.netlify.app/groups" },
+				{ name: "Astro – groepsdetail", url: "https://framework-astro.netlify.app/groups/soa-paolo-fietsers" },
 			],
 		},
 	},
