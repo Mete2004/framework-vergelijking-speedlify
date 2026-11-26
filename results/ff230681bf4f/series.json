@@ -1,0 +1,3 @@
+{"version":1,"url":"https://framework-next.netlify.app/groups/soa-paolo-fietsers","updated":"2026-11-26T17:35:35.731Z","points":[
+{"t":1795714361385,"lh":"13.6.0","performance":100,"accessibility":94,"best-practices":96,"seo":80,"lcp":838,"cls":0.002,"tbt":54,"fcp":838,"si":1123,"ttfb":678,"total":206676,"requests":16,"bytes":0,"mainThreadMs":0,"unusedJsBytes":30905,"unusedCssBytes":0,"mainThreadTotal":398.2,"longTasks":1,"elements":43,"failingCount":2,"failingNodes":2,"axeViolations":4,"axePasses":127,"bench":2916.5,"runs":3,"reqRuns":3,"ms":174263,"spread":30}
+]}
