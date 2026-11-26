@@ -58,6 +58,8 @@ export default {
 				{ name: "11ty – groepsdetail", url: "https://framework-11ty.netlify.app/groups/soa-paolo-fietsers/" },
 				{ name: "SvelteKit – groups", url: "https://snappthis-dev.netlify.app/groups" },
 				{ name: "SvelteKit – groepsdetail", url: "https://snappthis-dev.netlify.app/groups/soa-paolo-fietsers" },
+				{ name: "Next.js – groups", url: "https://framework-next.netlify.app/groups" },
+				{ name: "Next.js – groepsdetail", url: "https://framework-next.netlify.app/groups/soa-paolo-fietsers" },
 			],
 		},
 	},
